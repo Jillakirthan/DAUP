@@ -7,4 +7,4 @@
 [https://github.com/Jillakirthan/DAUP/blob/main/2203A52151_DAUP_Project3.ipynb]
 
 # SOFT COPY OF DOCUMENT
-[]
+[https://github.com/Jillakirthan/DAUP/blob/main/2203A52151_PROJECT_DAUP_SOFT_COPY_OFDOCUMENT.pdf]
